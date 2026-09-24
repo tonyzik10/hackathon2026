@@ -1,0 +1,2 @@
+- Call guardian button upon opening the application
+- Either Custom voice call / Or Call through phone number
